@@ -94,7 +94,6 @@ h1, h2, h3 {
 }
 #image {
   float: right;
-  position: static;
 }
 #picarea {
   width: 600px;
