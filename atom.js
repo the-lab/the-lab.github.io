@@ -1,3 +1,3 @@
 var restartGif = function() {
-	$("img").src = $("#img").src;
+	$("img").attr("src", "atom.gif");
 }
