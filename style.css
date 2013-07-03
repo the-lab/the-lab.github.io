@@ -105,6 +105,7 @@ h1, h2, h3 {
 }
 .wiggle { 
   font-weight: bold; 
-  margin: auto; 
+  margin: auto;
+  padding: auto; 
   font-size: 250%;
 }
