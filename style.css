@@ -103,4 +103,8 @@ h1, h2, h3 {
 #next {
   display: none;
 }
-.wiggle { font-weight: bold; margin: 0 auto;}
+.wiggle { 
+  font-weight: bold; 
+  margin: 0 auto; 
+  font-size: 250%;
+}
